@@ -2,7 +2,7 @@
 
 A plugin to highlight adl language files
 
-[ADL langauge repo](https://github.com/adl-lang/adl)
+[ADL language repo](https://github.com/adl-lang/adl)
 
 ## Installation Instructions
 
